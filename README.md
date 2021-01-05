@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Somendra Kumar
-        Web Developer/Designer and Competitive Programmer 
+    Web Developer/Designer and Competitive Programmer 
 
 
 Here are some ideas to get you started:
