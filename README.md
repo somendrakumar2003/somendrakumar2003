@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Somendra Kumar
-        <p>Web Developer/Designer and Competitive Programmer </p>
-<!--
-**somendrakumar2003/somendrakumar2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        Web Developer/Designer and Competitive Programmer 
+
 
 Here are some ideas to get you started:
 
